@@ -1,9 +1,9 @@
 Js Html5 Audio Recorder
 =======================
 
-JsHtml5AudioRecorder is a native html5 object that helps you record live audio stream from your browser.
-it provides echo cancellation and clear record.
-It works perfectly on Google Chrome, Firefox and Opera.
+JsHtml5AudioRecorder is a native html5 object that helps recording live audio stream from browser.
+It provides echo cancellation and clear record.
+It works on Google Chrome, Firefox and Opera.
 
 
 1) How to install
